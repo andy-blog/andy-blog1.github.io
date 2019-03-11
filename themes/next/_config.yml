@@ -113,8 +113,8 @@ menu_icons:
 # Schemes
 #scheme: Muse
 #scheme: Mist
-scheme: Pisces
-#scheme: Gemini
+#scheme: Pisces
+scheme: Gemini
 
 
 # ---------------------------------------------------------------
@@ -142,7 +142,7 @@ social_icons:
   enable: true
   icons_only: false
   transition: false
-  Github: github
+
 # Blog rolls
 links_icon: link
 links_title: Links
